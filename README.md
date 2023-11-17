@@ -8,7 +8,7 @@ https://vimeo.com/884486072
 
 <p>You can Download the zip file of the program here</p>
 
-<a href="https://github.com/Madison6420Miller/test/raw/main/test.zip" >click here </a>
+<a href="/test/raw/main/test.zip" >click here </a>
 
 <p>Here what it looks like running and finding a arbitrage.</p>
 
