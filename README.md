@@ -25,25 +25,3 @@ If this program help you please vote for me in the annual codeathon last year I 
 
 <p>For those who prefer written instructions, please follow these steps:</p>
 
-<p>Step 1: Extract the contents of the downloaded file.</p>
-
-<p>Step 2: Open the "config.js" file using a text editor such as Notepad.</p>
-
-<img src="1.png" />
-
-<p>Step 3: Configure the settings to your preferences and save the file.</p>
-
-<img src="2.png" />
-
-<p>Step 4: Open the "run.html" file in any web browser of your choice.</p>
-
-<img src="3.png" />
-
-<p>JavaScript DEX Triangular Arbitrage Bot v5 is a software program that uses JavaScript programming language to automate the process of triangular arbitrage on decentralized exchanges (DEXs). Triangular arbitrage is a trading strategy that involves exploiting price discrepancies between three different cryptocurrencies on a single exchange.</p>
-<p>The bot is designed to monitor the prices of three cryptocurrencies in real-time and execute trades automatically when the conditions for triangular arbitrage are met. It does this by analyzing the prices of the three cryptocurrencies and calculating whether a profitable trade can be made by buying and selling them in a specific order.</p>
-<p>For example, if the bot detects that the price of cryptocurrency A is lower on the exchange than the price of cryptocurrency B, which is lower than the price of cryptocurrency C, it will execute a series of trades to take advantage of this price discrepancy. The bot will first buy cryptocurrency A, then sell it for cryptocurrency B, and finally sell cryptocurrency B for cryptocurrency C. If the prices are favorable, this process will result in a profit.</p>
-
-
-#cryptosuccess #cryptocentral #cryptovolatility #cryptocash #cryptomoney #cryptonews #cryptocurrencyexchange #cryptoconsulting #cryptosignals #stablecoins Introduction: DEX Crypto Triangular Arbitrage is a technique used in cryptocurrency trading that allows traders to take advantage of price discrepancies between different markets. This technique involves the simultaneous buying and selling of three different cryptocurrencies in order to lock in a profit from the difference in prices. Since the markets for cryptocurrencies are decentralized and highly volatile, opportunities for arbitrage can arise quickly. 
-
-Core Components: DEX Crypto Triangular Arbitrage consists of three primary components: the trading platforms, the orderbooks, and the arbitrage algorithm. The trading platforms provide the interface for traders to place and manage their orders. The orderbooks keep track of all buy and sell orders and their respective prices. The arbitrage algorithm is the set of rules that allows
